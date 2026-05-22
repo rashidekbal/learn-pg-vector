@@ -1,0 +1,24 @@
+{
+  "name": "yt",
+  "version": "1.0.0",
+  "description": "search via vector",
+  "license": "ISC",
+  "author": "rasid",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "openai": "^6.38.0",
+    "pg": "^8.21.0",
+    "pgvector": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

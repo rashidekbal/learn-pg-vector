@@ -1,0 +1,81 @@
+{
+  "videos": [
+    {
+      "title": "Getting Started with Java Collections",
+      "description": "Learn the basics of Java Collections Framework including List, Set, and Map."
+    },
+    {
+      "title": "Building a Chat App in Android",
+      "description": "Step-by-step guide to creating a real-time messaging application using Android."
+    },
+    {
+      "title": "Understanding Multithreading in Java",
+      "description": "Explore threads, synchronization, and concurrency concepts in Java."
+    },
+  
+    {
+      "title": "REST API Integration with Retrofit",
+      "description": "Fetch and display data from REST APIs in Android applications."
+    },
+    {
+      "title": "Introduction to System Design",
+      "description": "Learn the fundamentals of designing scalable software systems."
+    },
+    {
+      "title": "Firebase Authentication Tutorial",
+      "description": "Implement user login and registration using Firebase Authentication."
+    },
+    {
+      "title": "Android Room Database Deep Dive",
+      "description": "Store and manage local data efficiently with Room Persistence Library."
+    },
+    {
+      "title": "Java Streams Explained",
+      "description": "Use Stream API to process collections with functional programming techniques."
+    },
+    {
+      "title": "Deploying a Node.js Backend",
+      "description": "Host and manage a production-ready Node.js server."
+    },
+    {
+      "title": "Material Design for Android",
+      "description": "Build modern Android interfaces following Material Design principles."
+    },
+    {
+      "title": "WebSockets for Real-Time Communication",
+      "description": "Enable instant messaging and live updates using WebSockets."
+    },
+    {
+      "title": "Introduction to Docker",
+      "description": "Containerize applications and simplify deployment workflows."
+    },
+    {
+      "title": "Optimizing SQL Queries",
+      "description": "Improve database performance with indexing and query optimization."
+    },
+    {
+      "title": "Building a Reels Feature",
+      "description": "Implement short-form video feeds similar to popular social media platforms."
+    },
+    {
+      "title": "JWT Authentication Explained",
+      "description": "Secure APIs and applications using JSON Web Tokens."
+    },
+    {
+      "title": "Android MVVM Architecture",
+      "description": "Organize Android projects using ViewModel, Repository, and LiveData."
+    },
+    {
+      "title": "Caching Strategies in Backend Systems",
+      "description": "Reduce latency and improve scalability with effective caching techniques."
+    },
+    {
+      "title": "Introduction to AI Agents",
+      "description": "Understand autonomous agents, memory systems, and tool usage."
+    },
+    {
+      "title": "Scaling Social Media Applications",
+      "description": "Explore architectures and strategies used by large-scale social platforms."
+    }
+  ]
+}
